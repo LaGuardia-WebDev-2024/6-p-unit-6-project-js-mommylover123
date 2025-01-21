@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://wallpapers-clan.com/wp-content/uploads/2024/11/chill-guy-background.jpg");
+  background-image: url("");
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -39,6 +39,7 @@ h2{
 
 #start{
   text-align: left;
+  
 }
 
 #end{

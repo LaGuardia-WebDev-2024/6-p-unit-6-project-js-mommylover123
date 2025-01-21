@@ -1,6 +1,6 @@
 //🟢Setup Procedure - Runs Once to Set The Canvas
 void setup() {
-    size(400, 400); 
+    size(400,400)
     background(255,255,255,100);
 }
 
@@ -12,8 +12,26 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
-
   
+//plate 
+  
+ellipse(200,200,300,600)
+
+//steak
+
+
+fill(150,75,0);
+ellipse(180,130,180,180);
+triangle(198,220,268,158,348,369);
+
+fill(150,75,0);
+
+//rosemary
+fill(0,200,0);
+line(100,250,300,350);
+line(320,350,340,200)
+
+
 
 }
 
